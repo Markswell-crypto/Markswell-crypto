@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-# Full Stack Software Engineer<br><br>🚀 I’m a passionate software engineer with expertise in full-stack development. <br>My skills span various technologies, allowing me to create robust and user-friendly applications. Here's a brief overview:<br><br>## Technical Skills:<br>- **JavaScript**: Proficient in both front-end (React.js) and back-end (Node.js) development.<br>- **React.js**: Experienced in building dynamic and responsive user interfaces.<br>- **Python + Flask**: Skilled in creating RESTful APIs and server-side logic.<br>- **SQL**: Proficient in database design, querying, and optimization.<br>- **UI/UX Design**: Adept at creating intuitive and visually appealing interfaces.<br><br>🌱 I'm always eager to learn and stay up-to-date with emerging technologies. <br><br>⚡ Fun Fact: When I'm not coding, you'll find me exploring new technologies. <br><br>🌟Let's build something amazing together! 
-
+💫 About Me: Full Stack Software Engineer<br>
+🚀 I’m a passionate software engineer with expertise in full-stack development.<br>
+👯 I’m looking to collaborate on meaningful projects that push the boundaries of technology <br>
+🌱 I’m currently learning Angular.js <br>
+📫 How to reach me: osoromarkswell80@gmail.com <br>
+⚡ Fun Fact: When I'm not coding, you'll find me exploring new technologies. <br>
+🌟Let's build something amazing together! <br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/maxiwenje.ogutu?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/og_smark?igsh=YzljYTk1ODg3Zg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/markswell-osoro-921970151/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@osoromarkswell80) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/maxiwenje/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Osoro-Markswell) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/No-Split-9065/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/23577191/osoro-markswell) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@maxiwenje?_t=8kaXGZMZejO&_r=1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/031b48b11ab8496?t=Tr0lvzGher4ruMJVlpZKtg&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC2LEMwAUhD32mN7OMPcu57g) 
